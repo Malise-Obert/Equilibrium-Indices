@@ -10,7 +10,7 @@ clone this Repository from Github (https://github.com/Malise-Obert/Equilibrium-I
 ```
 
 $ git clone https://github.com/Malise-Obert/Equilibrium-Indices.git
-cd the created folder
+cd to the created folder
 composer install
 ```
 
